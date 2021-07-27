@@ -1,0 +1,1 @@
+web: gunicorn membership_registeration.wsgi --log-file -
